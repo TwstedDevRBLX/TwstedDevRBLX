@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @TwstedDevRBLX
+- 👀 I’m interested in making games, and plugins using roblox studio
+- 🌱 I’m currently learning proffesional lua scripting.
